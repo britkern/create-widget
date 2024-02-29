@@ -2,7 +2,7 @@ repo_name: britkern/create-widget
 report_id: ba53bebe5da1f1d5b6ca31a82ceaa518
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:30:12+00:00'
+timestamp: '2024-02-29T18:57:04+00:00'
 requested_by: ymichael
 provider: github
 branch: main
@@ -90,7 +90,7 @@ tools:
   last_updated_by: Michael Yong
   last_updated_on: 2021-12-07 02:23:28.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
